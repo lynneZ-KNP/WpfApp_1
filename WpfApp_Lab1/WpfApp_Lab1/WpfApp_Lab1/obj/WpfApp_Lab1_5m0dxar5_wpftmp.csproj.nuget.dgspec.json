@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\_UI_2022_2023_in_work\\WpfApp_Lab1\\WpfApp_Lab1\\WpfApp_Lab1.csproj": {}
+  },
+  "projects": {
+    "E:\\_UI_2022_2023_in_work\\WpfApp_Lab1\\DataLibrary\\DataLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\_UI_2022_2023_in_work\\WpfApp_Lab1\\DataLibrary\\DataLibrary.csproj",
+        "projectName": "DataLibrary",
+        "projectPath": "E:\\_UI_2022_2023_in_work\\WpfApp_Lab1\\DataLibrary\\DataLibrary.csproj",
+        "packagesPath": "C:\\Users\\berez\\.nuget\\packages\\",
+        "outputPath": "E:\\_UI_2022_2023_in_work\\WpfApp_Lab1\\DataLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\berez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\_UI_2022_2023_in_work\\WpfApp_Lab1\\WpfApp_Lab1\\WpfApp_Lab1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\_UI_2022_2023_in_work\\WpfApp_Lab1\\WpfApp_Lab1\\WpfApp_Lab1.csproj",
+        "projectName": "WpfApp_Lab1",
+        "projectPath": "E:\\_UI_2022_2023_in_work\\WpfApp_Lab1\\WpfApp_Lab1\\WpfApp_Lab1.csproj",
+        "packagesPath": "C:\\Users\\berez\\.nuget\\packages\\",
+        "outputPath": "E:\\_UI_2022_2023_in_work\\WpfApp_Lab1\\WpfApp_Lab1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\berez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\_UI_2022_2023_in_work\\WpfApp_Lab1\\DataLibrary\\DataLibrary.csproj": {
+                "projectPath": "E:\\_UI_2022_2023_in_work\\WpfApp_Lab1\\DataLibrary\\DataLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

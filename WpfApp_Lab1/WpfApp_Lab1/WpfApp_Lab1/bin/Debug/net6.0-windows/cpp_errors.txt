@@ -1,0 +1,16 @@
+ n = 3  nN = 5
+ derLeft = 1  derRight = 1
+x[0] = 0  y = 0
+x[1] = 1  y = 1
+x[2] = 2  y = 2
+ nN = 5
+xUni[0] = 0
+xUni[1] = 0.5
+xUni[2] = 1
+xUni[3] = 1.5
+xUni[4] = 2
+dfdNewTask1D errcode = 0
+dfdEditPPSpline1D errcode = 0
+dfdConstruct1D errcode = 0
+dfdInterpolate1D errcode = 0
+dfDeleteTask errcode = 0

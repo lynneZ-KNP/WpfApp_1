@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bf3f03cc-483d-404f-a3c1-52d41ef92aa1": {
+      "ProjectGuid": "bf3f03cc-483d-404f-a3c1-52d41ef92aa1",
+      "DisplayName": "WpfApp_Lab1",
+      "ColorIndex": 0
+    },
+    "514635d8-4f94-4489-a9b4-72a8365ad9f6": {
+      "ProjectGuid": "514635d8-4f94-4489-a9b4-72a8365ad9f6",
+      "DisplayName": "DataLibrary",
+      "ColorIndex": 1
+    },
+    "8eac2054-d00e-40c7-a283-4e4f7ba48cf9": {
+      "ProjectGuid": "8eac2054-d00e-40c7-a283-4e4f7ba48cf9",
+      "DisplayName": "Dll_CPP",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

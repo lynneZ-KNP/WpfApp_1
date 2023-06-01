@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WpfApp_Lab1/1.0.0": {
+        "dependencies": {
+          "DataLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WpfApp_Lab1.dll": {}
+        }
+      },
+      "DataLibrary/1.0.0": {
+        "runtime": {
+          "DataLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp_Lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
